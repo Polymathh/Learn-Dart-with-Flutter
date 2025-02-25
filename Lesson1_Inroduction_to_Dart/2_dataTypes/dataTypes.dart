@@ -57,5 +57,5 @@ Map<String, String> capitalCities = {
 
 //c.set(Collection of unique values)
 //There's no redundancy
-Set<int> number = {1, 2, 2, 3, 4, 5, 5, 5,};
+// Set<int> number = {1, 2, 2, 3, 4, 5, 5, 5,};
 // print(number); //Outputs 1,2,3,4,5
