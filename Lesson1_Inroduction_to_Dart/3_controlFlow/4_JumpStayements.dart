@@ -43,7 +43,6 @@ void ret(){
 //if condition met is FALSE it stops the execution and throws an AssertionMessage.
 void asert(){
   int age=18;
-  assert(age>=18){
-    print('You are $age years old'); //No assertionMesage
-  }
+  assert(age>=18, 'Age must be atleast 18 yrs');
+  print('You are $age years old'); //No assertionMesage  
 }
