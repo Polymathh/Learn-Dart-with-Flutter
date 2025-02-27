@@ -53,15 +53,15 @@ void printtName() => print('Mi name is Wambugu');
 
 
 //Calculating Simple Interest using ( => )
-double principal = 10000.00;
-double rate = 15.00;
-double time = 2.0;
+// double principal = 10000.00;
+// double rate = 15.00;
+// double time = 2.0;
 
-double calculateSimpleInterest = (double p ,double r, double t) => (p*r*t) / 100;
+// double calculateSimpleInterest = (double p ,double r, double t) => (p*r*t) / 100;
 
-double interest = calculateSimpleInterest(principal, rate, time);
+// double interest = calculateSimpleInterest(principal, rate, time);
 
-print('The interest is: ${interest}');
+// print('The interest is: ${interest}');
 
 
 
